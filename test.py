@@ -1,5 +1,3 @@
-import 
-
 # Part 1: Identify if 21488566 is prime
 number = 21488566
 if sympy.isprime(number):
