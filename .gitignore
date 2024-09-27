@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Neovim swap, backup, and undo files
+*.swp
+*.swo
+*.backup
+*.undo
+
 # Virtual environment
 venv/
 env/
