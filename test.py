@@ -1,4 +1,5 @@
 # Part 1: Identify if 21488566 is prime
+import sympy 
 number = 21488566
 if sympy.isprime(number):
     print(f"{number} is a prime number.")
