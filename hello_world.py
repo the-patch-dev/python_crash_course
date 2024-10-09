@@ -9,4 +9,3 @@ if chloe_response.lower() == "good" or "greatgreat":
     print("nice!" + str(var0))
 else:
     print("not nice")
-
